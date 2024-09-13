@@ -1,6 +1,6 @@
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems })  => {
 const caption =`
-*➻𒍜➻Đ『➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄』*
+*➻𒍜➻Đ『➳ᴹᴿ᭄𝐴𝐾𝐼𝑅𝐴➳ᴹᴿ᭄』*
 *⌬ ❛╏ بان*
 *⌬ ❛╏ بانفك*
 *⌬ ❛╏ بريم*
@@ -15,7 +15,7 @@ const caption =`
 *⌬ ❛╏ بانشات_فك*
 *⌬ ❛╏ بلوك*
 *⌬ ❛╏ فك_بلوك*
- *➻𒍜➻Đ『➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄』*`
+ *➻𒍜➻Đ『➳ᴹᴿ᭄𝐴𝐾𝐼𝑅𝐴➳ᴹᴿ᭄』*`
 
 await conn.sendMessage( m.chat, {
         image: {
